@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: This algorith maintains the worst times when testing the different scenarios. It heavily reflects the characteristics of a bubble sort when in direct comparison to the other 2. 
+
+sort2 uses: Merge Sort
+
+How do you know?: This algorith takes the least amount of time by a large gap in comparison to the other 2. It processes the harder request not twice as fast but exponentially faster than sort1 for example.
+
+sort3 uses: Selection Sort
+
+How do you know?: It stays in the middle ground between the other 2 algorithms. The time that it takes to complete the tested files correlated heavily with the fact that selection sort performs worse the longer the array is.
